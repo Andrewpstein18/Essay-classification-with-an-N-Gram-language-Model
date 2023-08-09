@@ -1,2 +1,2 @@
 # Essay-classification-with-an-N-Gram-language-Model
-Built a trigram language model in Python to classify random essays into different categories such as medicine, sports, politics, academia, and religion.
+Project for COMS 4701 - NLP @ Columbia Engineering: Built a trigram language model in Python to classify random essays into different categories such as medicine, sports, politics, academia, and religion. Extracted n-grams from sentence data, counted them, in order to calculated and smoothed probabilities of n-grams. Used these probabilities to calculate sentence probability and final classification.
