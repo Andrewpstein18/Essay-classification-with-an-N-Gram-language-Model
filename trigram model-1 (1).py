@@ -7,7 +7,6 @@ import os.path
 
 """
 COMS W4705 - Natural Language Processing - Fall 2022 
-Prorgramming Homework 1 - Trigram Language Models
 Daniel Bauer
 """
 
